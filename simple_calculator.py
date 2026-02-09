@@ -8,8 +8,8 @@ class Calculator:
     def multiply(self, a, b):
         return a * b
 
-    def divide(self, a, b):
-        return a/b
+    def divide(self, angka1, angka2):
+        return angka1 / angka2
     def modulo(self, a, b):
         return a % b
     def power(self, a, b):
