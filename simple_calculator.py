@@ -5,8 +5,8 @@ class Calculator:
     def subtract(self, a, b):
         return a - b
 
-    def multiply(self, a, b):
-        return a * b
+    def multiply(self, c, d):
+        return c * d
 
     def divide(self, a, b):
         return a/b
